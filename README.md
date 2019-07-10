@@ -1,4 +1,5 @@
 参考：https://github.com/ecitlm/js-log-report
+      http://www.ruanyifeng.com/blog/2013/01/javascript_source_map.html
 
 本例安装mysql数据库
 
